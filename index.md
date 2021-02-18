@@ -4,24 +4,23 @@ layout: default
 
 ## Who Am I
 
-I'm Kevin Kenyon. I like computer science, jiu jitsu, math, and chess. I was born in Munich, Germany on 1/3/1989.
+I'm Kevin Kenyon. I enjoy computer science, jiu jitsu, cryptocurrencies, chess, and reading/writing. I was born in Munich, Germany and now live in Austin, TX.
 I went to the University of Texas at Austin for Computer Science. 
 
-I'm a Brown Belt in Brazilian Jiu Jitsu under [Rodrigo Cabral](http://brazilianfightfactory.com/)
+I'm a Brown Belt in Brazilian Jiu Jitsu under [Rodrigo Cabral](http://brazilianfightfactory.com/). I've been doing jiu jitsu since
+2013 and enjoy competing. My biggest achievement was a Bronze medal at IBJJF American Nationals in 2018 (purple belt).
 
-This page contains various things about me that you
-might find useful.
+Currently I'm enjoying not having a software engineering job and just working on things I find fulfilling.
+
+I was laid off due to COVID-19 last June after switching into an AI Research Software Engineering role at IBM.
 
 ## What I'm Up To in 2021
-1. Working through The Art of Problem Solving Volume 1
-2. Working on problems on LeetCode to prep for interviews
-3. Working on [BJJBrain.com](bjjbrain.com)
-4. Reading various CS books
-  - The Algorithm Design Manual
-  - Theory of Computation
-  - Code
+1. Reading a lot of books
+2. Contribute to open source (Bitcoin Core, others)
+3. Looking for a software engineering job in Austin, TX or remote
+4. Training a lot of Jiu Jitsu
 
 ## Links
-[LinkedIn](https://www.linkedin.com/in/kevin.kenyon)
+[LinkedIn](https://www.linkedin.com/in/kevinkenyon)
 [Github](https://github.com/kvkenyon)
 
